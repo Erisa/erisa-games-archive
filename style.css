@@ -1,0 +1,23 @@
+main {
+    text-align: center;
+}
+
+body {
+    background-color: #282727;
+    color: #C63B65;
+}
+
+a {
+    color: white;
+}
+
+@media (prefers-color-scheme: light) {
+    body {
+        background-color:  white;
+        color: black;
+    }
+    
+    a {
+        color: unset;
+    }
+}

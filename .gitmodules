@@ -4,3 +4,6 @@
 [submodule "GloryQuest2"]
 	path = GloryQuest2
 	url = git@github.com:Erisa/GloryQuest2.git
+[submodule "evenfall"]
+	path = evenfall
+	url = https://github.com/Project-Evenfall/Website.git

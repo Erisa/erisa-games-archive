@@ -12,6 +12,10 @@ a {
     text-decoration:none;
 }
 
+a:hover {
+    color:#4882e0;
+}
+
 h1, h2, h3 {
     line-height: 1.2;
 }

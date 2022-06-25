@@ -1,6 +1,6 @@
 [submodule "GloryQuest"]
 	path = GloryQuest
-	url = https://github.com/Erisa/GloryQuest.git
+	url = git@github.com:Erisa/GloryQuest.git
 [submodule "GloryQuest2"]
 	path = GloryQuest2
-	url = https://github.com/Erisa/GloryQuest2.git
+	url = git@github.com:Erisa/GloryQuest2.git
